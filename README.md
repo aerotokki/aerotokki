@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I recently renamed my GitHub account to reflect a naming change. Please find me at https://https://github.com/dvtls. Thanks!
+I recently renamed my GitHub account to reflect a naming change. Please find me at https://github.com/dvtls. Thanks!
 
 <!--
 **aerotokki/aerotokki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
